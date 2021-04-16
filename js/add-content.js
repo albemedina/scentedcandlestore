@@ -24,5 +24,4 @@ function welcomeHere(){
     } 
     return '<h3>' + greeting + '</h3>';
   }
-
-  for (var i = 1; i <= 24; i = i + 1) {}
+  
